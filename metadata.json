@@ -1,0 +1,59 @@
+{
+  "siteId": "lower-back-stretch-relief",
+  "generatedAt": "2026-06-05T13:48:30.566038",
+  "categories": [
+    "beginner-lower-back-stretch-relief",
+    "advanced-lower-back-stretch-relief",
+    "tips-lower-back-stretch-relief",
+    "history-lower-back-stretch-relief",
+    "trending-lower-back-stretch-relief",
+    "tutorials-lower-back-stretch-relief"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-lower-back-stretch-relief",
+      "category_name": "Beginner Lower Back Stretch Relief"
+    },
+    {
+      "category_slug": "advanced-lower-back-stretch-relief",
+      "category_name": "Advanced Lower Back Stretch Relief"
+    },
+    {
+      "category_slug": "tips-lower-back-stretch-relief",
+      "category_name": "Lower Back Stretch Relief Tips"
+    },
+    {
+      "category_slug": "history-lower-back-stretch-relief",
+      "category_name": "Lower Back Stretch Relief History"
+    },
+    {
+      "category_slug": "trending-lower-back-stretch-relief",
+      "category_name": "Trending Lower Back Stretch Relief"
+    },
+    {
+      "category_slug": "tutorials-lower-back-stretch-relief",
+      "category_name": "Lower Back Stretch Relief Tutorials"
+    }
+  ],
+  "articleCount": 108,
+  "design": {
+    "site_id": "lower-back-stretch-relief",
+    "color_scheme": {
+      "name": "Forest Green",
+      "primary": "#166534",
+      "secondary": "#22c55e",
+      "accent": "#86efac",
+      "background": "#f0fdf4",
+      "text": "#14532d",
+      "light": "#dcfce7"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "topbar",
+    "site_title": "Lower Back Stretch Relief Central",
+    "articles_per_row": 4
+  }
+}
